@@ -26,7 +26,7 @@ This library provides a clean and lightweight interface to configure and read da
 
 ---
 
-## 🔌 I2C Wiring Example (Arduino UNO)
+##  I2C Wiring Example (Arduino UNO)
 
 | ISM330DHCX | Arduino UNO |
 |------------|------------|
